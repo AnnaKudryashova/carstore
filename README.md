@@ -1,3 +1,8 @@
+1) Car_data.csv file contains sample of data records.
+2) in this file for static resource url with car images ************* should be replaced with id in static resource file url 13-character number
+3) SetUp-> Static Recources-> View file-> 13 character number from url
+4) Once it was replaced the import of records should be done
+
 # Salesforce DX Project: Next Steps
 
 Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
